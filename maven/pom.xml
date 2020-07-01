@@ -49,7 +49,7 @@
     -->
 
     <!-- 统一管理jar包版本  -->
-    <!--  <mysql.version>5.1.6</mysql.version>其中<mysql.version>为key值
+    <!--  <mysql.version>8.0.16</mysql.version>其中<mysql.version>为key值
     取值时xml文件中也可以使用EL表达式如: <version>${mysql.version}</version>-->
     <properties>
         <spring.version>5.0.2.RELEASE</spring.version>
