@@ -52,7 +52,7 @@
     <!--  <mysql.version>5.1.6</mysql.version>其中<mysql.version>为key值
     取值时xml文件中也可以使用EL表达式如: <version>${mysql.version}</version>-->
     <properties>
-        <spring.version>5.0.2.RELEASE</spring.version>
+        <spring.version>5.3.19</spring.version>
         <slf4j.version>1.6.6</slf4j.version>
         <log4j.version>1.2.12</log4j.version>
         <shiro.version>1.2.3</shiro.version>
